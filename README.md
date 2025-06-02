@@ -7,3 +7,4 @@ exercises 5-6
 https://github.com/bartek00000/descripitve_stat/blob/main/Exercise5_6.md
 Exercise 8 :
 https://github.com/bartek00000/descripitve_stat/blob/main/Exercise8-2.md Exercise 9 : https://github.com/bartek00000/descripitve_stat/blob/main/Exercise9.md
+Exercise 10:https://github.com/bartek00000/descripitve_stat/blob/main/Exercise10-2.md
